@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "ostream": "cpp",
+      "iostream": "cpp",
+      "pre_order_binary_tree": "c",
+      "stdio.h": "c",
+      "unordered_map": "c",
+      "array": "c",
+      "*.tcc": "c",
+      "string": "c",
+      "vector": "c",
+      "string_view": "c",
+      "functional": "c",
+      "istream": "c",
+      "limits": "c",
+      "sstream": "c",
+      "streambuf": "c",
+      "algorithm": "c"
+    }
+  }
+}
